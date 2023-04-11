@@ -344,27 +344,27 @@ html{
     }
 
     .skills .skills-content .right .html::before{
-        width: 85%;
+        width: 100%;
     }
 
     .skills .skills-content .right .css::before{
-        width: 65%;
+        width: 100%;
     }
 
     .skills .skills-content .right .javascript::before{
-        width: 73%;
+        width: 100%;
     }
 
     .skills .skills-content .right .python::before{
-        width: 20%;
+        width: 80%;
     }
 
     .skills .skills-content .right .git::before{
-        width: 60%;
+        width: 90%;
     }
 
     .skills .skills-content .right .csharp::before{
-        width: 23%;
+        width: 33%;
     }
 
     /* .skills p{
